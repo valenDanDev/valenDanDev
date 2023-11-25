@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Valencia</h1>
-<h3 align="center">A passionate System Engineering student from Colombia who likes to take on new challenges </h3>
+<h3 align="center">I like to take on new challenges </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valendandev&label=Profile%20views&color=0e75b6&style=flat" alt="valendandev" /> </p>
 
